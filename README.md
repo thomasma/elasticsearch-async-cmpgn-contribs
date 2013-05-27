@@ -1,2 +1,1 @@
-elasticsearch-async-cmpgn-contribs
-==================================
+Refer to blog post for details - http://blogs.justenougharchitecture.com/?p=666
