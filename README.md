@@ -1,1 +1,1 @@
-Refer to blog post for details - http://blogs.justenougharchitecture.com/?p=666
+Refer to blog post for details - http://blogs.justenougharchitecture.com/?p=705
